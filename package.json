@@ -1,0 +1,26 @@
+{
+  "name": "ideia-unica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheustgcarvalho/ideia-unica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/matheustgcarvalho/ideia-unica/issues"
+  },
+  "homepage": "https://github.com/matheustgcarvalho/ideia-unica#readme",
+  "dependencies": {
+    "next": "^16.2.6",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  }
+}
